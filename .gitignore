@@ -1,0 +1,4 @@
+/data*
+/MNIST_data*
+.project
+.pydevproject
